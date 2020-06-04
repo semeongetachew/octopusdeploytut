@@ -17,9 +17,7 @@ The purpose of this repo is to aid new beginners in learning more about the vari
 ## Blogs
 
 - https://octopus.com/blog
-
 - https://documentation.red-gate.com/sca4/deploying-database-changes/add-ons/octopus-deploy/deploy-to-multiple-environments-using-octopus-deploy-and-powershell
-
 - https://ianpaullin.com/series/
 
 
