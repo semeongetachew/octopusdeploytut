@@ -8,11 +8,17 @@ The purpose of this repo is to aid new beginners in learning more about the vari
 ## Table of Contents
 
 - [About](#About)
+- [QuickServer Build](#QuickServer Build)
 - [Blogs](#Blogs)
 - [Youtube Channels](#YoutubeChannels)
 - [Books](#Books)
 - [Support](#support)
 - [Contributing](#contributing)
+
+
+## Quick Server Build
+
+
 
 ## Blogs
 
